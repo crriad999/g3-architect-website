@@ -273,4 +273,16 @@
   .main-container{
     max-width: 1440px;
     margin: 0 auto;
+
+    text-align: center;
+    
+    
   }
+  .footer-container {
+    padding: 40px 0;
+    text-align: center;
+    margin-top: 50px;
+    /* width: 1400px;
+    height: 100px; */
+  }
+  
